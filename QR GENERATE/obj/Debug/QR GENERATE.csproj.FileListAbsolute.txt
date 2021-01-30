@@ -1,0 +1,16 @@
+c:\users\ghl_srv\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\bin\Debug\QR GENERATE.exe.config
+c:\users\ghl_srv\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR GENERATE.csprojResolveAssemblyReference.cache
+c:\users\ghl_srv\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR_GENERATE.Form1.resources
+c:\users\ghl_srv\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR_GENERATE.MDIParent1.resources
+c:\users\ghl_srv\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR_GENERATE.Properties.Resources.resources
+c:\users\ghl_srv\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR GENERATE.csproj.GenerateResource.Cache
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\bin\Debug\QR GENERATE.exe
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\bin\Debug\QR GENERATE.pdb
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR GENERATE.exe
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR GENERATE.pdb
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR_GENERATE.Form2.resources
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\bin\Debug\zxing.dll
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\bin\Debug\zxing.presentation.dll
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\bin\Debug\zxing.xml
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\bin\Debug\zxing.presentation.xml
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\QR GENERATE\QR GENERATE\obj\Debug\QR_GENERATE.About1.resources
